@@ -122,6 +122,39 @@ Kemudian tambahkan CSS
 Kemudian lihat hasilnya
 ![12b](https://user-images.githubusercontent.com/56242226/115751808-bd036a80-a3c3-11eb-9def-41e66efbb8b8.PNG)
 
+# Pertanyaan dan Tugas
+1. Tambahkan Layout untuk menu About
+=> buat single layout yang berisi deskripsi, portfolio, dll
+
+Berikut adalah source codenya : 
+
+![no1](https://user-images.githubusercontent.com/56242226/115752981-d9ec6d80-a3c4-11eb-89c4-25f16ab032b4.PNG)
+![no1a](https://user-images.githubusercontent.com/56242226/115753029-e7a1f300-a3c4-11eb-9091-34881a5677de.PNG)
+![no1b](https://user-images.githubusercontent.com/56242226/115753058-f12b5b00-a3c4-11eb-9487-7a0985d4462b.PNG)
+
+Kemudian lihat hasilnya di web browser 
+
+![no1c](https://user-images.githubusercontent.com/56242226/115753111-04d6c180-a3c5-11eb-9b22-5ebbbd7c1a90.PNG)
+
+2. Tambahkan layout untuk menu Contact
+=> yang berisi form isian: nama, email, message, dll
+
+berikut source codenya : 
+
+![no2](https://user-images.githubusercontent.com/56242226/115753195-220b9000-a3c5-11eb-8804-6b0342071cb4.PNG)
+![no2a](https://user-images.githubusercontent.com/56242226/115753228-29cb3480-a3c5-11eb-84f6-3ae01b7d1976.PNG)
+
+Kemudian lihat hasilnya di web browser 
+
+![no2b](https://user-images.githubusercontent.com/56242226/115753292-3b144100-a3c5-11eb-9923-ef2492bd8337.PNG)
+
+
+
+
+
+
+
+
 
 
 
