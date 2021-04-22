@@ -27,6 +27,7 @@ Kemudian buka browser untuk melihat hasilnya.
 Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk 
 mengaturnya.
 Tambahkan element div lainnya seteleah div3 seperti berikut.
+
 ![4](https://user-images.githubusercontent.com/56242226/115748947-d525ba80-a3c0-11eb-801a-b1d47e9a0bdc.PNG)
 
 Kemudian atur property clear pada CSS, seperti berikut.
